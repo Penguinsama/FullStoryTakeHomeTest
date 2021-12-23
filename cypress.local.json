@@ -1,0 +1,8 @@
+{
+    "env": {
+        "baseUrl": "https://localhost:8080/#/"
+    },
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "reporter": "mochawesome"
+}

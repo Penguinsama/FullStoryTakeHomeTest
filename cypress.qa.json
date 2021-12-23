@@ -1,0 +1,8 @@
+{
+    "env": {
+        "baseUrl": "https://qa-fruitshoppe.firebaseapp.com/#/"
+    },
+    "viewportWidth": 1536,
+    "viewportHeight": 960,
+    "reporter": "mochawesome"
+}
